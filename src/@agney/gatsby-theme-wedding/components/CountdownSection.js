@@ -66,7 +66,7 @@ const TextContainer = styled.div`
 `;
 
 function CountdownSection() {
-  const thedate = "28-May-2024 11:00 AM"
+  const thedate = "28-May-2022 11:00 AM"
   return (
     <Container>
       <TitleContainer>
