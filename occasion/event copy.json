@@ -1,0 +1,70 @@
+{
+    "profiles": [
+ 
+      {
+        "name": "Jillian",
+        "description": "Loudest lady in the room.",
+        "links": {
+          "instagram": "https://www.instagram.com/jilliangraveel/",
+          "facebook": "https://www.facebook.com/jillian.graveel/",
+          "twitter": "https://www.twitter.com/"
+        }
+      },
+      {
+        "name": "Ryan",
+        "description": "Exhibiting signs of awesome-ness since 1979",
+        "links": {
+          "instagram": "https://instagram.com/jusry01",
+          "facebook": "https://www.facebook.com/ryan.jussel/",
+          "twitter": "https://www.twitter.com/ryanjussel"
+        }
+      }
+    ],
+    
+    "events": [
+      {
+        "title": "28-May-2022 11:00 AM",
+        "occasion": {
+          "name": "Ceremony",
+          "place": {
+            "name": "Fort Collins, CO",
+            "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d48493.54156578505!2d-105.1074791773869!3d40.56707025463555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1637948287074!5m2!1sen!2sus" 
+          },
+          "time": "11:00AM"
+        },
+        "calendar": {
+          "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20191110T133519Z%2F20191110T133519Z&details=&location=Casa%20Garden%2C%20Sacremento&text=Nathaniel%20%26%20Samantha%20Wedding&trp=false",
+          "outlook": "https://outlook.live.com/owa/?body=&enddt=20191110T133519&location=Casa%20Garden%2C%20Sacremento&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=20191110T133519&subject=Nathaniel%20%26%20Samantha%20Wedding"
+        }
+      },
+      {
+        "title": "28-May-2022 1:00 PM",
+        "occasion": {
+          "name": "Reception",
+          "place": {
+            "name": "The Elizabeth Hotel",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3029.919318441356!2d-105.07597968425759!3d40.58753627934562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87694af4ac8ce907%3A0x3f8850014cd2ba0e!2sThe%20Elizabeth%20Hotel%2C%20Autograph%20Collection!5e0!3m2!1sen!2sus!4v1637981618945!5m2!1sen!2sus"
+          },
+          "time": "1:00PM - 4:00PM"
+        },
+        "calendar": {
+          "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20191110T133519Z%2F20191110T133519Z&details=&location=Casa%20Garden%2C%20Sacremento&text=Nathaniel%20%26%20Samantha%20Wedding&trp=false",
+          "outlook": "https://outlook.live.com/owa/?body=&enddt=20191110T133519&location=Casa%20Garden%2C%20Sacremento&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=20191110T133519&subject=Nathaniel%20%26%20Samantha%20Wedding"
+        }
+      },
+      {
+        "title": "Book your room",
+        "occasion":{
+          "name": "Places to Stay",
+          "place":{
+            "name": "The Elizabeth Hotel",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3029.919318441356!2d-105.07597968425759!3d40.58753627934562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87694af4ac8ce907%3A0x3f8850014cd2ba0e!2sThe%20Elizabeth%20Hotel%2C%20Autograph%20Collection!5e0!3m2!1sen!2sus!4v1637981618945!5m2!1sen!2sus"
+          }
+        },
+        "calendar": {
+          "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20191110T133519Z%2F20191110T133519Z&details=&location=Casa%20Garden%2C%20Sacremento&text=Nathaniel%20%26%20Samantha%20Wedding&trp=false",
+          "outlook": "https://outlook.live.com/owa/?body=&enddt=20191110T133519&location=Casa%20Garden%2C%20Sacremento&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=20191110T133519&subject=Nathaniel%20%26%20Samantha%20Wedding"
+        }
+      }
+    ]
+  }
