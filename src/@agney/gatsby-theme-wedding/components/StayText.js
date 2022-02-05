@@ -33,7 +33,7 @@ const ImpText = styled(Text)`
   color: ${props => props.theme.colors.primary};
 
   ${media.phone`
-    color: ${props => props.theme.colors.light};
+    color: ${props => props.theme.colors.primary};
     font-weight: 600;
   `}
 `;

@@ -28,6 +28,8 @@ const CountContainer = styled.div`
 
   ${media.phone`
     flex-direction: column;
+    color: ${props => props.theme.colors.primary};
+
   `}
 `;
 
@@ -57,10 +59,11 @@ const TextContainer = styled.div`
   padding-bottom: 2rem;
 
   ${media.phone`
+    width: 20rem;
     grid-row: 1 / 1;
     grid-column: 1 / 1;
     z-index: 5;
-    color: #ffffff;
+    color: #000;
     padding-bottom: 2rem;
   `}
 `;
