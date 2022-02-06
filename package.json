@@ -8,16 +8,17 @@
     "gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "develop": "GATSBY_NEWRELIC_ENV=production gatsby develop",
+    "start": "GATSBY_NEWRELIC_ENV=production gatsby develop",
+    "build": "GATSBY_NEWRELIC_ENV=production gatsby build",
+    "serve": "GATSBY_NEWRELIC_ENV=production gatsby serve",
+    "clean": "GATSBY_NEWRELIC_ENV=production gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.17.6",
     "@agney/gatsby-theme-wedding": "^1.0.0",
+    "gatsby": "^2.17.6",
     "react": "^16.11.0",
-    "react-dom": "^16.11.0"
+    "react-dom": "^16.11.0",
+    "react-helmet": "^6.1.0"
   }
 }
