@@ -13,6 +13,23 @@ module.exports = {
             contentPath: "occasion", // Tell the theme where your data is.
            // basePath: "/event" // Tell the theme which URL to render the theme at.
           }
-        }
+        }/*,
+        {
+          resolve: 'gatsby-plugin-newrelic',
+          options: {
+            configs: {
+              production: {
+                instrumentationType: 'proAndSPA',
+                accountId: '439836',
+                trustKey: '439836',
+                agentID: '749346911',
+                licenseKey: 'c92a5e5e44',
+                applicationID: '749346911',
+                beacon: 'bam.nr-data.net',
+                errorBeacon: 'bam.nr-data.net'
+              }
+            }
+          }
+        }*/
       ]
 }
