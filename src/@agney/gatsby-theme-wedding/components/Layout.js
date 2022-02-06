@@ -6,6 +6,9 @@ import GlobalStyles from "@agney/gatsby-theme-wedding/src/components/GlobalStyle
 import theme from "./theme";
 import Footer from "@agney/gatsby-theme-wedding/src/components/Footer";
 
+
+
+
 const Main = styled.main`
   position: relative;
   height: 100%;
@@ -15,8 +18,11 @@ const Main = styled.main`
   overflow-x: hidden;
 `;
 
+
+
 const Layout = ({ children }) => {
   return (
+
     <ThemeProvider theme={theme}>
       <div>
         <Main css={``}>{children}</Main>

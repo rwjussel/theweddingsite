@@ -34,6 +34,10 @@ const TextContainer = styled.div`
 const ImageContainer = styled.div`
   position: relative;
   height: 100vh;
+  border: 10px;
+  border-style: double;
+  border-color:${props => props.theme.colors.primary};
+  background-color: ${props => props.theme.colors.light};
 
   ${media.phone`
     grid-row: 1 / 1;
