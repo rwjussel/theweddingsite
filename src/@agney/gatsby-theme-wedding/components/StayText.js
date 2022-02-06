@@ -1,4 +1,4 @@
-import { graphql, useStaticQuery } from "gatsby";
+//import { graphql, useStaticQuery } from "gatsby";
 import React, { Fragment } from "react";
 import styled from "styled-components";
 

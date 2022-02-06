@@ -67,7 +67,7 @@ function CoverText() {
       </ImpText>
       <Text as="p">in</Text>
       <ImpText as="p" {...animationParams}>
-        {event.events[0].occasion.place.name}
+        Fort Collins, Colorado
       </ImpText>
     </Fragment>
   );
