@@ -33,8 +33,8 @@
           "time": "11:00AM"
         },
         "calendar": {
-          "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220528T180012Z%20220528T190012Z&details=For%20updated%20details%20visit%20https%3A%2F%2Fwww.ryanjillian.com%0A%0A&location=Soldier%20Canyon%2C%20Lory%20State%20Park%2C%20Colorado&text=Ryan%20%26%20Jillian%20Wedding%20Ceremony%20(Children%20Welcome)&trp=false",          
-          "outlook": "https://outlook.live.com/owa/?body=For%20updated%20details%20visit%20https%3A%2F%2Fwww.ryanjillian.com%0A%0A&enddt=20220528T120012&location=Soldier%20Canyon%2C%20Lory%20State%20Park%2C%20Colorado&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=20220528T110012&subject=Ryan%20%26%20Jillian%20Wedding%20Ceremony%20(Children%20Welcome)"
+          "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220528T170000Z/20220528T180000Z&details=For%20updated%20details%20visit%20<a href='https://www.ryanjillian.com'>RyanJillian.com</a>&location=Soldier%20Canyon%2C%20Lory%20State%20Park%2C%20Colorado&text=Ryan%20%26%20Jillian%20Wedding%20Ceremony%20(Children%20Welcome)&trp=false",
+          "outlook": "https://outlook.live.com/owa/?body=For%20updated%20details%20visit%20<a href='https://www.ryanjillian.com'>RyanJillian.com</a>&startdt=2022-05-28T17:00:00Z&enddt=2022-05-28T18:00:00Z&location=Soldier%20Canyon%2C%20Lory%20State%20Park%2C%20Colorado&path=/calendar/action/compose&rru=addevent&subject=Ryan%20and%20Jillian%20Wedding%20Ceremony%20(Children%20Welcome)"
         }
       },
       {
@@ -48,8 +48,8 @@
           "time": "1:00PM - 4:00PM"
         },
         "calendar": {
-          "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220528T200012Z%20220528230012Z&details=For%20updated%20details%20visit%20https%3A%2F%2Fwww.ryanjillian.com%0A%0A&location=Magic%20Rat%20at%20the%20Elizabeth%20Hotel%2C%20Fort%20Collins%2C%20CO&text=Ryan%20%26%20Jillian%20Reception%20(Adults%20Only)&trp=false",
-          "outlook": "https://outlook.live.com/owa/?body=For%20updated%20details%20visit%20https%3A%2F%2Fwww.ryanjillian.com%0A%0A&enddt=20220528T160012&location=Magic%20Rat%20at%20the%20Elizabeth%20Hotel%2C%20Fort%20Collins%2C%20CO&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=20220528T130012&subject=Ryan%20%26%20Jillian%20Reception%20(Adults%20Only)"
+          "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220528T190000Z/20220528T220000Z&details=For%20updated%20details%20visit%20<a href='https://www.ryanjillian.com'>RyanJillian.com</a>&location=The%20Elizabeth%20Hotel%2C%20Autograph%20Collection%2C%20111%20Chestnut%20St%2C%20Fort%20Collins%2C%20CO%2080524%2C%20USA&text=Ryan%20%26%20Jillian%20Reception%20(Adults%20Only)&trp=false",
+          "outlook": "https://outlook.live.com/owa/?body=For%20updated%20details%20visit%20<a href='https://www.ryanjillian.com'>RyanJillian.com</a>&startdt=2022-05-28T19:00:00Z&enddt=2022-05-28T22:00:00Z&location=Magic%20Rat%20at%20the%20Elizabeth%20Hotel%2C%20Fort%20Collins%2C%20CO&path=/calendar/action/compose&rru=addevent&subject=Ryan%20and%20Jillian%20Reception%20(Adults%20Only)"
 
 
         }
@@ -64,9 +64,9 @@
           },
           "time": "5:00 PM - ?:??"
         },
-        "calendar": {
-          "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220529T000012Z%20220529T070012Z&details=For%20updated%20details%20visit%20https%3A%2F%2Fwww.ryanjillian.com%0A%0A&location=New%20Belgium%20Brewery%2C%20%26%20Old%20Town%2C%20Fort%20Collins%2C%20Colorado&text=%22Post%20-%20Reception%3A%20Night%20on%20the%20Town%22&trp=false",
-          "outlook": "https://outlook.live.com/owa/?body=For%20updated%20details%20visit%20https%3A%2F%2Fwww.ryanjillian.com%0A%0A&enddt=20220529T000012&location=New%20Belgium%20Brewery%2C%20%26%20Old%20Town%2C%20Fort%20Collins%2C%20Colorado&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=20220528T170012&subject=%22Post%20-%20Reception%3A%20Night%20on%20the%20Town%22"
+        "calendar": {          
+          "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220528T230000Z/20220529T040000Z&details=For%20updated%20details%20visit%20<a href='https://www.ryanjillian.com'>RyanJillian.com</a>&location=New%20Belgium%20Brewery%2C%20%26%20Old%20Town%2C%20Fort%20Collins%2C%20Colorado&text=Post%20-%20Reception%3A%20Night%20on%20the%20Town&trp=false",
+          "outlook": "https://outlook.live.com/owa/?body=For%20updated%20details%20visit%20<a href='https://www.ryanjillian.com'>RyanJillian.com</a>&startdt=2022-05-29T00:00:00Z&enddt=2022-05-29T05:00:00Z&location=New%20Belgium%20Brewery%2C%20%26%20Old%20Town%2C%20Fort%20Collins%2C%20Colorado&path=/calendar/action/compose&rru=addevent&subject=Post%20-%20Reception%3A%20Night%20on%20the%20Town"
 
         }
       }
