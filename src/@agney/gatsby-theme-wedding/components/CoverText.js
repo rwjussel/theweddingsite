@@ -1,4 +1,4 @@
-import { graphql, useStaticQuery } from "gatsby";
+import { graphql, useStaticQuery} from "gatsby";
 import React, { Fragment } from "react";
 import styled from "styled-components";
 
@@ -69,6 +69,7 @@ function CoverText() {
       <ImpText as="p" {...animationParams}>
         Fort Collins, Colorado
       </ImpText>
+      <Text> <a href="https://forms.gle/bmuFPHouDTgg1CMV8">R.S.V.P. Now!</a> </Text>
     </Fragment>
   );
 }
