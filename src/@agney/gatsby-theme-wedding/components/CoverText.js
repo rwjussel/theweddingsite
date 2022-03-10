@@ -38,6 +38,8 @@ const ImpText = styled(Text)`
 const RSVPText= styled(Text)`
   color: ${props => props.theme.colors.primary};
   background: ${props => props.theme.colors.light};
+  font-weight: 400;
+  font-size: 2rem;
 
   ${media.phone`
   border: 2px solid black;
@@ -83,7 +85,7 @@ function CoverText() {
       <ImpText as="p" {...animationParams}>
         Fort Collins, Colorado
       </ImpText>
-      <RSVPText> <a href="https://forms.gle/bmuFPHouDTgg1CMV8">R.S.V.P. Now!</a> </RSVPText>
+      <RSVPText as="p" {...animationParams} > <a href="https://forms.gle/bmuFPHouDTgg1CMV8">R.S.V.P. Now!</a> </RSVPText>
     </Fragment>
   );
 }
