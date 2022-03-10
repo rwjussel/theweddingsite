@@ -35,6 +35,20 @@ const ImpText = styled(Text)`
   `}
 `;
 
+const RSVPText= styled(Text)`
+  color: ${props => props.theme.colors.primary};
+  background: ${props => props.theme.colors.light};
+
+  ${media.phone`
+  border: 2px solid black;
+  padding: 25px;
+  margin: 0 0 0 18%;
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+`}
+`
+
 const QUERY = graphql`
   query {
     event {
@@ -69,7 +83,7 @@ function CoverText() {
       <ImpText as="p" {...animationParams}>
         Fort Collins, Colorado
       </ImpText>
-      <Text> <a href="https://forms.gle/bmuFPHouDTgg1CMV8">R.S.V.P. Now!</a> </Text>
+      <RSVPText> <a href="https://forms.gle/bmuFPHouDTgg1CMV8">R.S.V.P. Now!</a> </RSVPText>
     </Fragment>
   );
 }
