@@ -86,6 +86,7 @@ function CoverText() {
         Fort Collins, Colorado
       </ImpText>
       <RSVPText as="p" {...animationParams} > <a href="https://forms.gle/bmuFPHouDTgg1CMV8">R.S.V.P. Now!</a> </RSVPText>
+      <ImpText as="p" {...animationParams} > Questions? See the <a href="https://wedding.ryanjillian.com/faq">FAQ</a> </ImpText>
     </Fragment>
   );
 }
