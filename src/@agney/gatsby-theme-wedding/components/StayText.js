@@ -54,7 +54,7 @@ function StayText() {
         Latest Check-out: Monday, May 30, 2022
       </ImpText>
       <ImpText as="li" {...animationParams}>
-        Last Day to Book: Wednesday, April 27, 2022
+        Last Day to Book: Wednesday, April 20, 2022
       </ImpText>
       <ImpText>
         <a href="https://www.marriott.com/events/start.mi?id=1634066673792&key=GRP">Reserve rooms now with group rate.</a>
